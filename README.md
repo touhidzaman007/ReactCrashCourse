@@ -11,3 +11,5 @@ Find Live Classes code repo,
 #2) [Class-2 - Vanilla JavaScript Advanced Features Class](https://github.com/touhidzaman007/ReactCrashCourse/tree/Vanilla-JavaScript-Advanced-Features-Part-1)
 
 #3) [Class-3 - Vanilla JavaScript Advanced Features Class](https://github.com/touhidzaman007/ReactCrashCourse/tree/Vanilla-JavaScript-Advanced-Features-Part-2)
+
+#4) [Class-4 - React Crash Course - Virtual DOM](https://github.com/touhidzaman007/ReactCrashCourse/tree/React-Crash-Course---Virtual-DOM)
